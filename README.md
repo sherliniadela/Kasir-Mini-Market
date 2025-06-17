@@ -2,7 +2,7 @@
 
 ## # Kasir Mini Market - Aplikasi Kasir Sederhana
 
-![Screenshot Aplikasi](screenshot.png) <!-- Ganti dengan nama file screenshot Anda -->
+![Screenshot Aplikasi](programiz.png) <!-- Ganti dengan nama file screenshot Anda -->
 
 ## Deskripsi
 Aplikasi Kasir Mini Market adalah program sederhana yang dibangun dengan C# untuk membantu proses transaksi di mini market atau toko kecil. Aplikasi ini memungkinkan input data barang, perhitungan otomatis, dan pencetakan struk belanja sederhana.
